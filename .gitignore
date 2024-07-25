@@ -2,4 +2,4 @@
 app.py
 requirements.txt
 /venv
-/assests
+/assests/*
