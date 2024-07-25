@@ -1,7 +1,7 @@
 # YOLOv10n Person Detection and Restricted Area Monitoring
 Demo Video
-Watch the demo video here
-![Watch the Video](output.mp4)
+
+![Watch the Video](https://github.com/sial-sanwal/Person-Detection-in-Restricted-Zones-Using-YOLOv10/blob/main/output.mp4)
 # Overview
 This project demonstrates the use of a YOLOv10n model for detecting persons in a video and monitoring a restricted area. The model processes each frame of the video, detects persons, and counts the number of persons in a specified restricted area. The results are displayed on the video with bounding boxes and a counter indicating the number of persons in the restricted area.
 
